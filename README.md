@@ -12,5 +12,5 @@ Multi Disease prediction using machine learning is an emerging field in healthca
 KAGGLE Dataset Links
 1. https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset 
 2. https://www.kaggle.com/datasets/mathchi/diabetes-data-set 
-3. https://www.kaggle.com/datasets/merishnasuwal/breast-cancer-predictiondataset 
+3. https://www.kaggle.com/datasets/merishnasuwal/breast-cancer-prediction-dataset 
 4. https://www.kaggle.com/c/diabetic-retinopathy-detection
